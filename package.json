@@ -1,0 +1,16 @@
+{
+  "name": "0110_repository",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^4.13.0",
+    "node.js": "0.0.0",
+    "sass": "^1.24.4"
+  }
+}
